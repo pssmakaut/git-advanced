@@ -1,4 +1,3 @@
-This is a conflicting line of text.<<<<<<< HEAD
 <<<<<<< HEAD
 This is a conflicting line of text.
 =======
