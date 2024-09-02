@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is a conflicting line of text.
+=======
 This is a txt file created on 03.09.2024
+>>>>>>> main
